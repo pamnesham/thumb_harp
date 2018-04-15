@@ -27,80 +27,86 @@
         android:id="@+id/k1"
         android:layout_width="54dp"
         android:layout_height="54dp"
+        android:visibility="invisible"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintDimensionRatio="H,W"
         app:layout_constraintHorizontal_bias="0.014"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.43"
+        app:layout_constraintVertical_bias="0.395"
         app:srcCompat="@android:drawable/radiobutton_off_background" />
+
 
     <ImageButton
         android:id="@+id/k2"
         android:layout_width="54dp"
         android:layout_height="54dp"
+        android:visibility="invisible"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintHorizontal_bias="0.131"
+        app:layout_constraintHorizontal_bias="0.118"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@android:drawable/radiobutton_off_background"
-        tools:layout_editor_absoluteX="126dp"
-        tools:layout_editor_absoluteY="148dp" />
+        app:layout_constraintVertical_bias="0.473"
+        app:srcCompat="@android:drawable/radiobutton_off_background" />
 
     <ImageButton
         android:id="@+id/k3"
         android:layout_width="54dp"
         android:layout_height="54dp"
+        android:visibility="invisible"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintHorizontal_bias="0.232"
+        app:layout_constraintHorizontal_bias="0.223"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.596"
+        app:layout_constraintVertical_bias="0.583"
         app:srcCompat="@android:drawable/radiobutton_off_background" />
 
     <ImageButton
         android:id="@+id/k4"
         android:layout_width="54dp"
         android:layout_height="54dp"
+        android:visibility="invisible"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintHorizontal_bias="0.348"
+        app:layout_constraintHorizontal_bias="0.333"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.596"
+        app:layout_constraintVertical_bias="0.655"
         app:srcCompat="@android:drawable/radiobutton_off_background" />
 
     <ImageButton
         android:id="@+id/k5"
         android:layout_width="54dp"
         android:layout_height="54dp"
+        android:visibility="invisible"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintHorizontal_bias="0.464"
+        app:layout_constraintHorizontal_bias="0.446"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.596"
+        app:layout_constraintVertical_bias="0.77"
         app:srcCompat="@android:drawable/radiobutton_off_background" />
 
     <ImageButton
         android:id="@+id/k6"
         android:layout_width="54dp"
         android:layout_height="54dp"
+        android:visibility="invisible"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintHorizontal_bias="0.58"
+        app:layout_constraintHorizontal_bias="0.565"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.596"
+        app:layout_constraintVertical_bias="0.707"
         app:srcCompat="@android:drawable/radiobutton_off_background" />
 
     <ImageButton
         android:id="@+id/k7"
         android:layout_width="54dp"
         android:layout_height="54dp"
+        android:visibility="invisible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.68"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -113,12 +119,13 @@
         android:id="@+id/k8"
         android:layout_width="54dp"
         android:layout_height="54dp"
+        android:visibility="invisible"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintHorizontal_bias="0.78"
+        app:layout_constraintHorizontal_bias="0.79"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.596"
+        app:layout_constraintVertical_bias="0.51"
         app:srcCompat="@android:drawable/radiobutton_off_background" />
 
 
@@ -126,18 +133,20 @@
         android:id="@+id/k9"
         android:layout_width="54dp"
         android:layout_height="54dp"
+        android:visibility="invisible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.89"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.45"
+        app:layout_constraintVertical_bias="0.42"
         app:srcCompat="@android:drawable/radiobutton_off_background" />
 
     <ImageButton
         android:id="@+id/k10"
         android:layout_width="54dp"
         android:layout_height="54dp"
+        android:visibility="invisible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias=".99"
         app:layout_constraintLeft_toLeftOf="parent"
